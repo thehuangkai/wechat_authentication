@@ -1,4 +1,4 @@
-Project Title
+WeChat official account authentication using flask
 
 This are the files for authenticating a wechat official account bot. main.py authenticates the bot by handling a GET request sent by the
 wechat platform. You can read more about it on the official wechat documentations. custom_keyboard.py adds a custom wechat keyboard by sending
